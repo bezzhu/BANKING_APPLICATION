@@ -1,0 +1,28 @@
+[
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "CardDetails": {
+      "CardNumber": "1",
+      "ExpirationDate": "1",
+      "CVC": "1"
+    },
+    "PinCode": "1",
+    "TransactionHistory": [
+      
+    ]
+  },
+  {
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "CardDetails": {
+      "CardNumber": "2",
+      "ExpirationDate": "2",
+      "CVC": "2"
+    },
+    "PinCode": "2",
+    "TransactionHistory": [
+      
+    ]
+  }
+]

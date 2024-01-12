@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMu2Tuh/YjIQXCSNNaY6lXVS7pnall0qWrSgQ2/lZBsVvWmyo4jJ7wFIlsC+GVgs8IzsHciaDCP4dME0onHh+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\BANKING_APPLICATION\\BANKING_APPLICATION\\BANKING_APPLICATION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
